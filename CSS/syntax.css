@@ -1,16 +1,17 @@
-/* comment: style all p tags */
+h2 {
+    font-size: 24px
+}
 
-p {
+#content-header {
     font-size: 18px;
+    color: red;
+}
+
+span {
+    display: block;
     color: blue;
 }
-#header p {
-    font-size: 24px;
 
-}
-
-/* Style all header tags */
-
-h1 {
-    font-size: 44px;
-}
+.deck {
+    color: red;
+} 
