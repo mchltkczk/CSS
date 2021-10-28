@@ -1,7 +1,8 @@
-article {
-    text-decoration: overline;
+h1 {
+    font-weight: normal;
 }
 
-a {
-    text-decoration: inherit;
+p{
+    font-weight: 500;
+    font-family: "Yu Gothic";
 }
