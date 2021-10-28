@@ -1,7 +1,9 @@
-#header p {
-    text-transform: capitalize; 
+#header h1 {
+    color: aqua;
+    background-color: black;
 }
 
-body > p {
-    text-transform: lowercase;
+#header h2 {
+    color: #567398;
+    background: black;
 }
