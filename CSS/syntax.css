@@ -1,9 +1,11 @@
-#header h1 {
-    color: aqua;
-    background-color: black;
+a {
+    color: crimson;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-#header h2 {
-    color: #567398;
-    background: black;
+a:hover {
+    color: darkmagenta;
+    text-decoration: underline;
+    background-color: yellow;
 }
