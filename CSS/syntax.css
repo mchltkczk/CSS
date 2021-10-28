@@ -1,3 +1,7 @@
-artile h2, article p {
-    font-family: 'PKO Bank Polski', helvetica, sans-serif;
+article {
+    text-decoration: overline;
+}
+
+a {
+    text-decoration: inherit;
 }
