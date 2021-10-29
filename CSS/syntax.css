@@ -1,9 +1,5 @@
 #banner {
-    background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(http://clipart-library.com/image_gallery/320477.png), url(https://icon-library.com/images/twitter-small-icon/twitter-small-icon-17.jpg);
-    background-repeat: no-repeat, repeat;
-    background-position: center, top left;
-    background-size: 300px; 100%;
+    background-color: rgb(250, 150, 60);
 }  
