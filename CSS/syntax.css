@@ -1,31 +1,22 @@
-.box {
-    margin: 20px;
-    padding: 20px;
-    float: left;    } 
+.block {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+}
 
-    .dashed {
-        border: 1px blue dotted;
-    }
-    .dotted {
-        border: 1px blue dotted;
-    }
-    .double {
-        border: 4px blue double;
-    }
-    .groove {
-        border: 14px blue groove;
-    }
-    .inset {
-        border: 14px blue inset;
-    }
-    .outset {
-        border: 14px blue outset;
-    }
-    .ridge {
-        border: 14px blue ridge;
-    }
-    .solid {
-        border: 4px blue solid;
-    }
-  
+.inline {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
 
+a {
+    padding: 10px;
+    margin: 10px;
+    background-color: green;
+    border: 1px solid darkgray;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
