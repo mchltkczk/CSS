@@ -14,10 +14,10 @@
     background: -moz-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
     background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
     background: linear-gradient(top, #aadddd 0%, #77aaaa 100%);
-
+    
 }
 
-button.hover {
+.button:hover {
     background: #77aaaa;
     background: -moz-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
     background: -webkit-linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
